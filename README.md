@@ -1,1 +1,1 @@
-working-copy://x-callback-url/write?repo=branchtest&path=README.md&x-success=working-copy%3A%2F%2Fx-callback-url%2Fcommit%3Frepo%3Dbranchtest%26message%3Dtesting%26x-success%3Dworking-copy%253A%252F%252Fx-callback-url%252Fpull%253Frepo%253Dbranchtest%2526x-success%253Dworking-copy%25253A%25252F%25252Fx-callback-url%25252Fpush%25253Frepo%25253Dbranchtest
+~~hello~~
